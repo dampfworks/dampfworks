@@ -1,14 +1,10 @@
-# steamworks4j
+# Dampfworks
 
 A thin wrapper which allows Java applications to access the Steamworks C++ API.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-### Documentation
-[http://code-disaster.github.io/steamworks4j/](http://code-disaster.github.io/steamworks4j/)
-
-### Games using steamworks4j
-[http://code-disaster.github.io/steamworks4j/showcase.html](http://code-disaster.github.io/steamworks4j/showcase.html)
+### Documentations coming soon!
 
 ### A note about feature requests and contributions
 
